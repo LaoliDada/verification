@@ -1,0 +1,8 @@
+input同级下P标签Class="verification-mes"
+data-verification-rule="*"
+	phone:手机号
+	email:邮箱
+	required:非空
+data-verification-message="提示信息"
+ data-verification-custom="正则表达式"
+	
